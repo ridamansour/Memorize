@@ -38,7 +38,7 @@ Memorize/
 ## 🎨 Screenshots
 
 <p float="left">
-  <img src="https://via.placeholder.com/150" alt="Game Board Screenshot" />
+  <img src="screenshot.png" alt="Game Board Screenshot" width=300/>
 </p>
 
 ## 🔄 To Do
