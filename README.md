@@ -53,7 +53,7 @@ Memorize/
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/Memorize.git
+   git clone https://github.com/ridamansour/Memorize.git
 
 
 2. Open in **Xcode**.
